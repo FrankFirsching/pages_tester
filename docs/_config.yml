@@ -7,6 +7,8 @@ title_separator: "|"
 
 subtitle: "This is so aweseome, I can't describe..."
 
+repository: "FrankFirsching/pages_tester"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
