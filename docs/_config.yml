@@ -3,6 +3,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 minimal_mistakes_skin: "dark"
 
 title: "My Awesome Site"
+title_separator: "|"
 
 # Plugins (previously gems:)
 plugins:
