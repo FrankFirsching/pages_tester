@@ -9,6 +9,15 @@ subtitle: "This is so aweseome, I can't describe..."
 
 repository: "FrankFirsching/pages_tester"
 
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
