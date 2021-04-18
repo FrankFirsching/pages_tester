@@ -9,8 +9,20 @@ subtitle: "This is so aweseome, I can't describe..."
 
 repository: "FrankFirsching/pages_tester"
 
-sidebar:
-  nav: "docs"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      sidebar:
+        nav: "docs"
+
 
 footer:
   links:
