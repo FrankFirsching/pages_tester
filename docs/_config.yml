@@ -2,6 +2,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
 minimal_mistakes_skin: "dark"
 
+title: "My Awesome Site"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
