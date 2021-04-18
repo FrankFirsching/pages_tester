@@ -33,6 +33,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mmistakes"
 
+include: ["_pages"]
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
