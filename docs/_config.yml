@@ -5,6 +5,8 @@ minimal_mistakes_skin: "dark"
 title: "My Awesome Site"
 title_separator: "|"
 
+subtitle: "This is so aweseome, I can't describe..."
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
